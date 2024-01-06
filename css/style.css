@@ -143,22 +143,22 @@ button:hover,
 }
 
 .circle-inner:nth-child(3) {
-    height: 285.4px;
-    width: 285.4px;
+    height: 345px;
+    width: 345px;
     border: 18px solid rgba(52, 173, 232, 1);
     position: absolute;
 }
 
 .circle-inner:nth-child(4) {
-    height: 304.6px;
-    width: 304.6px;
+    height: 420px;
+    width: 420px;
     border: 18px solid rgba(52, 173, 232, 1);
     position: absolute;
 }
 
 .circle-inner:nth-child(5) {
-    height: 423.8px;
-    width: 423.8px;
+    height: 500px;
+    width: 500px;
     border: 18px solid rgba(52, 173, 232, 1);
     position: absolute;
 }
